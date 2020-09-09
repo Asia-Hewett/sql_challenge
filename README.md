@@ -4,11 +4,11 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
 
 
-**Data Engineering**
+**Data Engineering** and
 **Data Analysis**
 
 
-*Note* 
+*Note*\ 
 You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. 
 Data Engineering is the more modern wording instead of Data Modeling.
 
@@ -33,7 +33,7 @@ Be sure to create tables in the correct order to handle foreign keys.
 Import each CSV file into the corresponding SQL table.
 
 
-*Note* 
+*Note*\
 Be sure to import the data in the same order that the tables were created.
 Account for the headers when importing to avoid errors.
 
